@@ -1,0 +1,1 @@
+This project is for creating a plain HTML based website by sharing the recipes for meals that I love.
